@@ -10,6 +10,8 @@ This TODO List application allows users to create, edit, delete, and manage note
 - **Filter Notes**: Display only completed or incomplete notes.
 - **Search**: Find notes by title or description.
 
+- ![Alt text](  https://github.com/Lera4576/TODOList/blob/main/todo.gif?raw=true)
+
 ## Technologies Used
 - **React**: For building the user interface.
 - **Context API**: For managing the application's state.
