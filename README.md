@@ -1,8 +1,29 @@
-# React + Vite
+# TODO List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This TODO List application allows users to create, edit, delete, and manage notes. Users can filter notes based on their completion status (completed or not completed) and search for them by title or description.
 
-Currently, two official plugins are available:
+## Features
+- **Create Notes**: Users can add new notes with titles and descriptions.
+- **Edit Notes**: Ability to modify existing notes.
+- **Delete Notes**: Remove notes from the list.
+- **Filter Notes**: Display only completed or incomplete notes.
+- **Search**: Find notes by title or description.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **React**: For building the user interface.
+- **Context API**: For managing the application's state.
+- **UUID**: For generating unique identifiers for each note.
+
+## Usage
+1. Type a note title in the input field and (optionally) add a description.
+2. Click "Add" to save the note.
+3. Use the search bar to filter notes.
+4. Check the box next to a note to mark it as completed.
+5. Use the edit and delete icons to modify or remove a note.
+6. Filter notes by status (completed/incomplete) for easier management.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone <YOUR_REPOSITORY_URL>
