@@ -25,7 +25,4 @@ This TODO List application allows users to create, edit, delete, and manage note
 5. Use the edit and delete icons to modify or remove a note.
 6. Filter notes by status (completed/incomplete) for easier management.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone <YOUR_REPOSITORY_URL>
+
